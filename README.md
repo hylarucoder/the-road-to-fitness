@@ -179,6 +179,7 @@
 - [2021-03-30](https://github.com/twocucao/the-road-to-fitness/issues/2) 180 斤
 - [2021-03-31](https://github.com/twocucao/the-road-to-fitness/issues/3) 179 斤
 - [2021-04-01](https://github.com/twocucao/the-road-to-fitness/issues/4) 179 斤
+- [2021-04-02](https://github.com/twocucao/the-road-to-fitness/issues/5) 177 斤
 
 
 ---
