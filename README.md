@@ -3,7 +3,7 @@
 现况
 
 - 身高 173
-- 体重 175 斤
+- 体重 172(现)/183(原) 斤
 
 期望
 
@@ -211,7 +211,7 @@
 
 > 测量方法：清晨如厕去衣后净重，最近 7 天内体重均值
 
-- [2021](https://github.com/twocucao/the-road-to-fitness/issues/7)  178/183
+- [2021](https://github.com/twocucao/the-road-to-fitness/issues/7)  172/183
 
 ---
 ChangeLog:
