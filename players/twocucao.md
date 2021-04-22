@@ -34,4 +34,4 @@
 
 > 测量方法：清晨如厕去衣后净重，最近 7 天内体重均值
 
-- [2021](https://github.com/twocucao/the-road-to-fitness/issues/7)  172/183
+- [2021](https://github.com/twocucao/the-road-to-fitness/issues/7) 172/183
