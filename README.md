@@ -6,7 +6,7 @@
 
 ## 玩家
 
-- [@twocucao 的实战经验](./players/twocucao.md) 原 183 斤，现 166 斤
+- [@twocucao 的实战经验](./players/twocucao.md) 原 183 斤，现 164 斤
 - [@vincent 的实战经验](./players/vincent.md) 原 187 斤，现 162 斤
 
 ## 减肥的基本原理和最佳方案
