@@ -82,7 +82,7 @@
 
 目前有两位玩家参与了这个 repo 的编写和实践。
 
-- [@twocucao 的实战经验](./players/twocucao.md) 原 183 斤，现 160 斤
+- [@twocucao 的实战经验](./players/twocucao.md) 原 183 斤，现 152 斤
 - [@vincent 的实战经验](./players/vincent.md) 原 187 斤，现 160 斤
 
 ---
