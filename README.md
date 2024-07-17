@@ -82,7 +82,7 @@
 
 目前有两位玩家参与了这个 repo 的编写和实践。
 
-- [@twocucao 的实战经验](./players/hylarucoder.md) 原 183 斤，现 152 斤
+- [@hylarucoder 的实战经验](./players/hylarucoder.md) 原 183 斤，现 152 斤
 - [@vincent 的实战经验](./players/vincent.md) 原 187 斤，现 160 斤
 
 ---
@@ -93,4 +93,4 @@ ChangeLog:
 - **2021-03-31** 增加辅助器材、运动强度章节。
 - **2021-04-08** 增加「阶段章节」。
 - **2021-04-22** 细化「指标篇」。
-- **2022-03-27** 细化「twocucao 的减肥经历」。
+- **2022-03-27** 细化「hylarucoder 的减肥经历」。
