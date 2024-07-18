@@ -1,4 +1,5 @@
 ---
+layout: doc
 title: Vincent Shi
 ---
 

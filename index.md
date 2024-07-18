@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Fitness Road"
-  text: "hylarucoder 和小伙伴们总结的健身经验"
-  tagline: "?"
+  text: "写给程序员的健身指北"
+  tagline: "hylarucoder 和小伙伴们总结的健身经验"
   actions:
     - theme: brand
       text: 开始阅读
-      link: /guides
+      link: /guides/intro
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 开始运动
+      link: /guides/slimming
 
 features:
   - title: 针对性强

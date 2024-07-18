@@ -1,4 +1,4 @@
-# 写给程序员的减肥健身指北
+# 写给程序员的健身指北
 
 Link ![The Road To Fitness](https://the-road-to-fitness.com/)
 
@@ -12,7 +12,7 @@ Link ![The Road To Fitness](https://the-road-to-fitness.com/)
 - [指标篇](./recipes/指标篇.md)
 - [动作篇](./recipes/动作篇.md)
 - [饮食篇](./recipes/饮食篇.md)
-- [态度篇](./recipes/态度篇.md)
+- [心态篇](./recipes/心态篇.md)
 
 ### Contributor
 
