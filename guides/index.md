@@ -44,7 +44,7 @@ editLink: true
 
 前三点的难点是意志力的管控，如何激励自己呢？
 
-- [激励篇](../recipes/motivate.md)
+- [激励篇](../recipes/激励篇.md)
 
 ## 减肥的最佳方案
 
@@ -69,15 +69,15 @@ editLink: true
 
 ## 常见指标
 
-- [指标篇](../recipes/metric.md)
+- [指标篇](../recipes/指标篇.md)
 
 ## 健身动作
 
-- [动作篇](../recipes/movement.md)
+- [动作篇](../recipes/动作篇.md)
 
 ## 饮食
 
-- [饮食篇](../recipes/eating.md)
+- [饮食篇](../recipes/饮食篇.md)
 
 ### Contributor
 
