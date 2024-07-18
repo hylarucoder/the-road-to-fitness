@@ -21,11 +21,11 @@ export default defineConfig({
       {
         text: 'Recipes',
         items: [
-          { text: '动作篇', link: '/recipes/动作篇' },
+          { text: '动作篇.md', link: '/recipes/动作篇.md' },
           { text: '心态篇', link: '/recipes/心态篇' },
-          { text: '指标篇', link: '/recipes/指标篇' },
-          { text: '激励篇', link: '/recipes/激励篇' },
-          { text: '饮食篇', link: '/recipes/饮食篇' }
+          { text: '指标篇.md', link: '/recipes/指标篇.md' },
+          { text: '激励篇.md', link: '/recipes/激励篇.md' },
+          { text: '饮食篇.md', link: '/recipes/饮食篇.md' }
         ]
       },
       {

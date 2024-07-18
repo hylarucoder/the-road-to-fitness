@@ -8,11 +8,11 @@ Link ![The Road To Fitness](https://the-road-to-fitness.com/)
 
 ## TOC
 
-- [激励篇](./recipes/motivate.md)
-- [指标篇](./recipes/metric.md)
-- [动作篇](./recipes/movement.md)
-- [饮食篇](./recipes/eating.md)
-- [态度篇](./recipes/attitude.md)
+- [激励篇](./recipes/激励篇.md)
+- [指标篇](./recipes/指标篇.md)
+- [动作篇](./recipes/动作篇.md)
+- [饮食篇](./recipes/饮食篇.md)
+- [态度篇](./recipes/态度篇.md)
 
 ### Contributor
 
