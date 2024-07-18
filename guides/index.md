@@ -7,7 +7,6 @@ editLink: true
 
 办公室工作者，主要是程序员，毕竟不是程序员谁会来 github 这个地方呢...
 
-
 ## 减肥有哪些难点？
 
 从原理上讲，减肥的核心就是 `制造热量差`，但为什么很多人减不了肥呢？
@@ -45,8 +44,7 @@ editLink: true
 
 前三点的难点是意志力的管控，如何激励自己呢？
 
-- [激励篇](./recipes/激励篇.md)
-
+- [激励篇](../recipes/motivate.md)
 
 ## 减肥的最佳方案
 
@@ -71,22 +69,22 @@ editLink: true
 
 ## 常见指标
 
-- [指标篇](./recipes/指标篇.md)
+- [指标篇](../recipes/metric.md)
 
 ## 健身动作
 
-- [动作篇](./recipes/动作篇.md)
+- [动作篇](../recipes/movement.md)
 
 ## 饮食
 
-- [饮食篇](./recipes/饮食篇.md)
+- [饮食篇](../recipes/eating.md)
 
 ### Contributor
 
 目前有两位玩家参与了这个 repo 的编写和实践。
 
-- [@hylarucoder 的实战经验](./players/hylarucoder.md) 原 183 斤，现 152 斤
-- [@vincent 的实战经验](./players/vincent.md) 原 187 斤，现 160 斤
+- [@vincent 的实战经验](../players/vincent.md) 原 187 斤，现 160 斤
+- [@hylarucoder 的实战经验](../players/hylarucoder.md) 复胖到 194 斤, 现 190 斤
 
 ---
 
